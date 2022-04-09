@@ -38,7 +38,7 @@
 | 后端 | 优点 | 缺点 | 部署教程 |
 | :-----------: | :-----------: | :-----------: | :-----------: |
 | Tencent SCF | 命令行一键部署，速度快，多文件代码易懂 | 价格贵 | [here](/back/tencentSCF/README.md) |
-| Cloudflare Worker | 绑定数据库部署复杂，单文件代码不易读 | 每天十万次免费调用额度 | [here](/back/cloudflareWorker/README.md) |
+| Cloudflare Worker | 每天十万次免费调用额度 | 绑定数据库部署复杂，单文件代码不易读 | [here](/back/cloudflareWorker/README.md) |
 
 # 使用教程
 
